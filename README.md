@@ -1,5 +1,6 @@
-# P6
-Classifiez automatiquement des biens de consommation
+# Classifiez automatiquement des biens de consommation
+Mise en place d’un outil de classification automatique de produits de consommation en fonction de leurs descriptifs (NLP) et de leurs photos (Computer Vision).
+
 
 Prétraiter des données texte pour obtenir un jeu de données exploitable
 
